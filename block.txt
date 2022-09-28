@@ -1,4 +1,4 @@
-127.0.0.1 127.0.0.1 localhost
+127.0.0.1 localhost
 127.0.0.1 business-tips.tiktok.com
 127.0.0.1 tracking.infobip.account.tiktok.com
 127.0.0.1 tracking.infobip.service.tiktok.com
@@ -6,3 +6,13 @@
 127.0.0.1 tiktok.com
 127.0.0.1 link.e.tiktok.com
 127.0.0.1 www.tiktok.com
+127.0.0.1 mssdk-va.tiktok.com
+127.0.0.1 sf16-sg.tiktokcdn.com
+127.0.0.1 p77-sign-va.tiktokcdn.com
+127.0.0.1 v16-webapp.tiktok.com
+127.0.0.1 lf16-tiktok-common.ibytedtos.com
+127.0.0.1 p16-sign.tiktokcdn-us.com
+127.0.0.1 lf16-tiktok-common.ttwstatic.com
+127.0.0.1 s20.tiktokcdn.com
+127.0.0.1 lf16-tiktok-web.ttwstatic.com
+127.0.0.1 p16-sign-va.tiktokcdn.com
