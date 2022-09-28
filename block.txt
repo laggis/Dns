@@ -22,3 +22,4 @@
 127.0.0.1 vmweb-va.byteoversea.com
 127.0.0.1 p19-sign.tiktokcdn-us.com
 127.0.0.1 sf16-short-va.bytedapm.com
+127.0.0.1 panel.serverhostig.eu
