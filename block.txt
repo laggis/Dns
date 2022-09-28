@@ -16,3 +16,10 @@
 127.0.0.1 s20.tiktokcdn.com
 127.0.0.1 lf16-tiktok-web.ttwstatic.com
 127.0.0.1 p16-sign-va.tiktokcdn.com
+127.0.0.1 p16-sign-sg.tiktokcdn.com
+127.0.0.1 sf16-scmcdn-va.ibytedtos.com
+127.0.0.1 starling-oversea.byteoversea.com
+127.0.0.1 sf16-secsdk.ttwstatic.com
+127.0.0.1 vmweb-va.byteoversea.com
+127.0.0.1 p19-sign.tiktokcdn-us.com
+127.0.0.1 sf16-short-va.bytedapm.com
