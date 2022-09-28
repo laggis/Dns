@@ -1,0 +1,8 @@
+127.0.0.1 127.0.0.1 localhost
+127.0.0.1 business-tips.tiktok.com
+127.0.0.1 tracking.infobip.account.tiktok.com
+127.0.0.1 tracking.infobip.service.tiktok.com
+127.0.0.1 datahub.tiktok.com
+127.0.0.1 tiktok.com
+127.0.0.1 link.e.tiktok.com
+127.0.0.1 www.tiktok.com
