@@ -1664,3 +1664,15 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+
+#Betting
+
+0.0.0.0 leovegas.com
+
+#virus sidor
+
+0.0.0.0 www.gogo-news.com
+0.0.0.0 ausoafab.net
+0.0.0.0 jaavnacsdw.com
+0.0.0.0 secret-celebrity-news.com
+0.0.0.0 goosebomb.com
