@@ -1669,7 +1669,7 @@
 
 0.0.0.0 leovegas.com
 
-#virus sidor
+#Virus sidor
 
 0.0.0.0 www.gogo-news.com
 0.0.0.0 ausoafab.net
