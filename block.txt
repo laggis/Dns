@@ -1813,6 +1813,9 @@
 0.0.0.0 jaavnacsdw.com
 0.0.0.0 secret-celebrity-news.com
 0.0.0.0 goosebomb.com
+0.0.0.0 andamafraidt.xyz/Nk41Q2VXLFg3
+0.0.0.0 andamafraidt.xyz
+0.0.0.0 cdn.discordapp.com/attachments/842330536379023371/903368619256336424/sysre.bat
 
 #WindowsSpyBlocker
 
