@@ -561,7 +561,6 @@
 0.0.0.0 nudistube.chaturbate.com
 0.0.0.0 camboystube.chaturbate.com
 0.0.0.0 gayboystube.chaturbate.com
-0.0.0.0 youtube.chaturbate.com
 0.0.0.0 xxxtube.chaturbate.com
 0.0.0.0 xxxxtube.chaturbate.com
 0.0.0.0 porkytube.chaturbate.com
@@ -1583,11 +1582,6 @@
 0.0.0.0 d.reddit.com
 0.0.0.0 rereddit.com
 0.0.0.0 events.redditmedia.com
-
-#YouTube
-
-0.0.0.0 ads.youtube.com
-0.0.0.0 youtube.cleverads.vn
 
 # Yahoo
 
