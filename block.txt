@@ -1809,6 +1809,14 @@
 0.0.0.0 goosebomb.com
 0.0.0.0 andamafraidt.xyz/Nk41Q2VXLFg3
 0.0.0.0 andamafraidt.xyz
+0.0.0.0 angry-dogs.com
+0.0.0.0 cpanel.angry-dogs.com
+0.0.0.0 cpcalendars.angry-dogs.com
+0.0.0.0 cpcontacts.angry-dogs.com
+0.0.0.0 mail.angry-dogs.com
+0.0.0.0 webdisk.angry-dogs.com
+0.0.0.0 webmail.angry-dogs.com
+0.0.0.0 www.angry-dogs.com
 
 #WindowsSpyBlocker
 
