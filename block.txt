@@ -1987,30 +1987,6 @@
 0.0.0.0 members2.bet365.com
 0.0.0.0 LyncExtWebLHR.bet365.com
 
-#Virus sidor
-
-0.0.0.0 www.gogo-news.com
-0.0.0.0 ausoafab.net
-0.0.0.0 jaavnacsdw.com
-0.0.0.0 secret-celebrity-news.com
-0.0.0.0 goosebomb.com
-0.0.0.0 andamafraidt.xyz/Nk41Q2VXLFg3
-0.0.0.0 andamafraidt.xyz
-0.0.0.0 angry-dogs.com
-0.0.0.0 cpanel.angry-dogs.com
-0.0.0.0 cpcalendars.angry-dogs.com
-0.0.0.0 cpcontacts.angry-dogs.com
-0.0.0.0 mail.angry-dogs.com
-0.0.0.0 webdisk.angry-dogs.com
-0.0.0.0 webmail.angry-dogs.com
-0.0.0.0 www.angry-dogs.com
-0.0.0.0 ads234.com
-0.0.0.0 ads345.com
-0.0.0.0 www.ads234.com
-0.0.0.0 www.ads345.com
-
-#End virus
-
 #WindowsSpyBlocker
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
