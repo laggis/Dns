@@ -1,3 +1,7 @@
+#Test
+
+0.0.0.0 cdn.discordapp.com
+
 #Omegle
 
 0.0.0.0 omegle.tv
