@@ -13838,4 +13838,4 @@
 0.0.0.0 www.ads234.com
 0.0.0.0 www.ads345.com
 0.0.0.0 derivedminers.com 
-0.0.0.0 ||derivedminers.com^
+||derivedminers.com^
