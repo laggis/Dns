@@ -13838,4 +13838,11 @@
 0.0.0.0 www.ads234.com
 0.0.0.0 www.ads345.com
 0.0.0.0 derivedminers.com
-||derivedminers.com^
+0.0.0.0 cpanel.derivedminers.com
+0.0.0.0 cpcalendars.derivedminers.com
+0.0.0.0 cpcontacts.derivedminers.com
+0.0.0.0 derivedminers.com
+0.0.0.0 mail.derivedminers.com
+0.0.0.0 webdisk.derivedminers.com
+0.0.0.0 webmail.derivedminers.com
+0.0.0.0 www.derivedminers.com
