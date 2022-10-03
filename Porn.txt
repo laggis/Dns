@@ -1610,3 +1610,15 @@
 0.0.0.0 youaresogay.com
 0.0.0.0 zentastic.com
 0.0.0.0 Fuckbook.net
+0.0.0.0 assets.jable.tv
+0.0.0.0 en.jable.tv
+0.0.0.0 jable.tv
+0.0.0.0 jp.jable.tv
+0.0.0.0 assetscdn.jable.tv
+0.0.0.0 assetscdn3.jable.tv
+0.0.0.0 assetscdn2.jable.tv
+0.0.0.0 assets-cdn.jable.tv
+0.0.0.0 hook.jable.tv
+0.0.0.0 cdn0.jable.tv
+0.0.0.0 cdn1.jable.tv
+0.0.0.0 upload.jable.tv
