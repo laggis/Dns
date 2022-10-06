@@ -229,3 +229,7 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+
+#Weird links
+
+0.0.0.0 pnrtscr.com/gz5n0s
