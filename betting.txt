@@ -136,3 +136,13 @@
 0.0.0.0 premLP-pt3.bet365.com
 0.0.0.0 members2.bet365.com
 0.0.0.0 LyncExtWebLHR.bet365.com
+0.0.0.0 casinodaddy.com
+0.0.0.0 www.casinodaddy.com
+0.0.0.0 mail.casinodaddy.com
+0.0.0.0 staging.casinodaddy.com
+0.0.0.0 www.staging.casinodaddy.com
+0.0.0.0 cpanel.casinodaddy.com
+0.0.0.0 cpcalendars.casinodaddy.com
+0.0.0.0 cpcontacts.casinodaddy.com
+0.0.0.0 webdisk.casinodaddy.com
+0.0.0.0 webmail.casinodaddy.com
