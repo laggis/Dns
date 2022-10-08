@@ -1,7 +1,7 @@
 #Omegle
 
-213.170.135.10:82/block omegle.tv
-213.170.135.10:82/block www.omegle.tv
+0.0.0.0 omegle.tv
+0.0.0.0 www.omegle.tv
 
 #Tiktok
 
