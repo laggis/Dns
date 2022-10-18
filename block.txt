@@ -1,7 +1,7 @@
 #Omegle
 
-213.170.135.10:82 omegle.tv
-213.170.135.10:82 www.omegle.tv
+https://213.170.135.10:82 omegle.tv
+https://213.170.135.10:82 www.omegle.tv
 
 #Tiktok
 
