@@ -1,5 +1,6 @@
 #Omegle
 
+0.0.0.0 /^.+(?:bat|exe)$/i
 0.0.0.0 omegle.tv
 0.0.0.0 www.omegle.tv
 
