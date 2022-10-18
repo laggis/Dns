@@ -1,6 +1,5 @@
 #Omegle
 
-0.0.0.0 /^.+(?:bat|exe)$/i
 0.0.0.0 omegle.tv
 0.0.0.0 www.omegle.tv
 
@@ -270,5 +269,9 @@
 127.0.0.1 statistik.bredbandskollen.se
 127.0.0.1 beta1.bredbandskollen.se
 127.0.0.1 bredbandskollen.se
+
+#Discord 
+
+cdn.discordapp.com
 
 
