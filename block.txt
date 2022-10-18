@@ -1,3 +1,8 @@
+#Omegle
+
+https://213.170.135.10:82 omegle.tv
+https://213.170.135.10:82 www.omegle.tv
+
 #Tiktok
 
 0.0.0.0 analytics.tiktok.com
