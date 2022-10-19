@@ -270,8 +270,5 @@
 0.0.0.0 beta1.bredbandskollen.se
 0.0.0.0 bredbandskollen.se
 
-#Discord 
-
-0.0.0.0 cdn.discordapp.com
 
 
