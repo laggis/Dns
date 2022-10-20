@@ -269,6 +269,3 @@
 0.0.0.0 statistik.bredbandskollen.se
 0.0.0.0 beta1.bredbandskollen.se
 0.0.0.0 bredbandskollen.se
-
-
-
