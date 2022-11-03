@@ -1622,3 +1622,5 @@
 0.0.0.0 cdn0.jable.tv
 0.0.0.0 cdn1.jable.tv
 0.0.0.0 upload.jable.tv
+0.0.0.0 tn1.pornzog.com
+0.0.0.0 tn.pornzog.com
