@@ -1,4 +1,8 @@
-0.0.0.0#Omegle
+#Scam sites
+
+0.0.0.0 datstray.com
+
+#Omegle
 
 0.0.0.0 omegle.tv
 0.0.0.0 www.omegle.tv
