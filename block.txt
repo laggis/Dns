@@ -1,6 +1,7 @@
 #Scam sites
 
 0.0.0.0 datstray.com
+0.0.0.0 get.skinape.app
 
 #Omegle
 
