@@ -274,7 +274,9 @@
 0.0.0.0 lab02.bredbandskollen.se
 0.0.0.0 statistik.bredbandskollen.se
 0.0.0.0 beta1.bredbandskollen.se
-0.0.0.0 bredbandskollen.se
+#Tor
+
+0.0.0.0 torproject.org
 
 #Zap-Hosting
 
