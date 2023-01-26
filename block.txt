@@ -1,3 +1,7 @@
+#Tor
+
+0.0.0.0 torproject.org
+
 #Scam sites
 
 0.0.0.0 datstray.com
