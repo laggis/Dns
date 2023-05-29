@@ -781,3 +781,4 @@
 0.0.0.0 partners.proton.me
 0.0.0.0 shop.proton.me
 0.0.0.0 status.proton.me
+0.0.0.0 proton.me
