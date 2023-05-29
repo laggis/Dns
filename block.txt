@@ -780,3 +780,8 @@
 0.0.0.0 shop.protonmail.com
 0.0.0.0 www.protonmail.com
 0.0.0.0 www.careers.protonmail.com
+0.0.0.0 careers.proton.me
+0.0.0.0 localize.proton.me
+0.0.0.0 partners.proton.me
+0.0.0.0 shop.proton.me
+0.0.0.0 status.proton.me
