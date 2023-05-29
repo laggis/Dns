@@ -808,3 +808,5 @@
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 adfox.yandex.ru
