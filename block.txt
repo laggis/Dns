@@ -876,3 +876,4 @@
 0.0.0.0 www.gem.linuxmint.com
 0.0.0.0 www.lwww.linuxmint.com
 0.0.0.0 www.soci.linuxmint.com
+0.0.0.0 linuxmint.com
