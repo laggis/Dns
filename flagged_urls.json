@@ -1,7 +1,7 @@
 [
     {
         "url": "https://seeamcommnunnlty.com/",
-        "reason": "Malicious content"
+        "reason": "Stream redirect, trying to take your steam account"
     },
 	    {
         "url": "http://stemcommunlty.space",
@@ -9,7 +9,7 @@
     },
 	    {
         "url": "https://u.to",
-        "reason": "Malicious content"
+        "reason": "The site its self are not Malicious, but the redirect can be."
     },
 	{
         "url": "https://shorturl.at",
