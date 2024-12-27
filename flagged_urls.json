@@ -3,11 +3,15 @@
         "url": "https://seeamcommnunnlty.com/",
         "reason": "Stream redirect, trying to take your steam account"
     },
-	    {
+    {
+        "url": "https://staemcommunnutly.com/",
+        "reason": "Stream redirect, trying to take your steam account"
+    },
+    {
         "url": "http://stemcommunlty.space",
         "reason": "Malicious content"
     },
-	    {
+	{
         "url": "https://u.to",
         "reason": "The site its self are not Malicious, but the redirect can be."
     },
