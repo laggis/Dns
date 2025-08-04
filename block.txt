@@ -1,13 +1,18 @@
+#Blocked sites
+
+0.0.0.0 nerbium.com
+0.0.0.0 l2.io
+0.0.0.0 v2.anticheat.space
+0.0.0.0 thegaffeltruck.com
+0.0.0.0 metas.dev
+0.0.0.0	Ipv4.jsonip.com
+0.0.0.0 metas.dev
+
 #Scam sites
 
 0.0.0.0 datstray.com
 0.0.0.0 get.skinape.app
 0.0.0.0 csgo.cyber-sports.com
-
-#Omegle
-
-0.0.0.0 omegle.tv
-0.0.0.0 www.omegle.tv
 
 #Tiktok
 
