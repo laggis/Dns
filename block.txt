@@ -7,6 +7,27 @@
 0.0.0.0 metas.dev
 0.0.0.0	Ipv4.jsonip.com
 0.0.0.0 metas.dev
+0.0.0.0 api-3.cipher-panel.me
+0.0.0.0 worldtimeapi.org
+0.0.0.0 api.worldtimeapi.org
+0.0.0.0 status.worldtimeapi.org
+0.0.0.0 worldtimeapi.org
+0.0.0.0 a.criticalscripts.shop
+0.0.0.0 autodiscover.friendsincode.com
+0.0.0.0 bot.friendsincode.com
+0.0.0.0 cmfb.friendsincode.com
+0.0.0.0 code.friendsincode.com
+0.0.0.0 els-stats.friendsincode.com
+0.0.0.0 git.friendsincode.com
+0.0.0.0 ice.friendsincode.com
+0.0.0.0 live.friendsincode.com
+0.0.0.0 repo.friendsincode.com
+0.0.0.0 srs.friendsincode.com
+0.0.0.0 store.friendsincode.com
+0.0.0.0 stream.friendsincode.com
+0.0.0.0 vdoninja.friendsincode.com
+0.0.0.0 watch.friendsincode.com
+0.0.0.0 friendsincode.com
 
 #Scam sites
 
